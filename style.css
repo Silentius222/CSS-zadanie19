@@ -2,26 +2,24 @@
     background-color: #f5f5dd;
 }
 
+
+[class = "kwadrat"] {
+  width: 200px;
+  height: 200px;
+}
+
 .kwadrat1{
-    width: 200px;
-    height: 200px;
     background-color: rgba(0, 0, 0);
 }
 
 .kwadrat2{
-    width: 200px;
-    height: 200px;
     background-color: rgba(0, 0, 0, 0.75);
 }
 
 .kwadrat3{
-    width: 200px;
-    height: 200px;
     background-color: rgba(0, 0, 0, 0.50);
 }
 
 .kwadrat4{
-    width: 200px;
-    height: 200px;
     background-color: rgba(0, 0, 0, 0.25);
 }
