@@ -3,7 +3,7 @@
 }
 
 
-[class = "kwadrat"] {
+[class^= "kwadrat"] {
   width: 200px;
   height: 200px;
 }
